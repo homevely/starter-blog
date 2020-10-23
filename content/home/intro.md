@@ -3,7 +3,7 @@ widget: starter.blog.intro
 widget_id: hi
 headless: true
 weight: 10
-title: ✏️ Monauna
+title: " Monauna"
 subtitle: For [Academic Website Builder](https://sourcethemes.com/academic/)
 active: true
 design:
