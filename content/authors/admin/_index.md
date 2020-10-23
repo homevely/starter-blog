@@ -1,24 +1,11 @@
 ---
-title: MM
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: about/#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-organizations:
-  - name: Stanford University
-    url: ""
+title: Mona
+role: Programmer level.0 // Graduate from a master course next year
+avatar_filename: c6d33e1b-11ec-4b37-b590-fec105679735.jpeg
+bio: No main topic, casual.
+social: []
+organizations: []
+email: monaxu9395@gmail.com
 superuser: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Welcom~
