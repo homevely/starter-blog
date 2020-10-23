@@ -12,8 +12,4 @@
   name = "About"
   url = "about/"
   weight = 20
-  
-%[[main]]
-%  name = "Articles"
-%  url = "posts/"
-%  weight = 30
+
