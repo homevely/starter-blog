@@ -4,7 +4,7 @@ widget_id: hi
 headless: true
 weight: 10
 title: " Monauna"
-subtitle: Yo~
+subtitle: 🍑
 active: true
 design:
   background:
