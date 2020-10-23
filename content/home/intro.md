@@ -2,7 +2,7 @@
 widget: starter.blog.intro
 widget_id: hi
 headless: true
-weight: 20
+weight: 0
 title: " Monauna"
 subtitle: Hello~~
 active: true
