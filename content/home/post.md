@@ -5,5 +5,5 @@ weight: 10
 title: Recent
 active: true
 design:
-  columns: "2"
+  columns: "3"
 ---
