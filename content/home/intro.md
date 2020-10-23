@@ -11,3 +11,4 @@ design:
     color: "#090a0b"
     text_color_light: true
 ---
+This is a blog page
