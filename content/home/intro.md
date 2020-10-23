@@ -2,10 +2,10 @@
 widget: starter.blog.intro
 widget_id: hi
 headless: true
-weight: 10
+weight: 20
 title: " Monauna"
-subtitle: For [Academic Website Builder](https://sourcethemes.com/academic/)
-active: true
+subtitle: Hello~~
+active: false
 design:
   background:
     color: "#090a0b"
