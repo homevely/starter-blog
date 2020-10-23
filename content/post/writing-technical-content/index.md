@@ -1,11 +1,16 @@
 ---
-title: Writing technical content in Academic
+title: 【Sample】Writing technical content in Academic
 date: 2019-07-12
 math: true
 diagram: true
+draft: true
+featured: true
 image:
   placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+  caption: "Image credit: [**John Moeses
+    Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)"
+  filename: featured.jpg
+  preview_only: true
 ---
 
 Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
